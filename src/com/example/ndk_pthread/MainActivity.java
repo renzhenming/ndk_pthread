@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 		p.init();
 	}
 
-	public void mTest(View btn){
+	public void start(View btn){
 		p.pthread();
 	}
 	
